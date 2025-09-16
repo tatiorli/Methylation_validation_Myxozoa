@@ -135,7 +135,7 @@ bash generate_table_of_hmmsearch_results_combined.sh
 ```
 ---
 
-## 🔹 3rd step is script: `generate_final_absence_presence_table.py` (there are some variations of it)
+## 🔹 Third step is script: `generate_final_absence_presence_table.py` (there are some variations of it)
 
 ### Purpose
 This script creates the **final presence/absence matrix** across all proteomes and HMMs.  
@@ -186,7 +186,7 @@ python generate_final_absence_presence_table.py
 ```
 ---
 
-## 🔹  4th step is script: `extract_proteins_from_proteome.py`
+## 🔹  Fourth step is script: `extract_proteins_from_proteome.py`
 
 ### Purpose
 This script extracts the **protein sequences** corresponding to the best hits reported in the **final presence/absence matrix** (from step 3).  
