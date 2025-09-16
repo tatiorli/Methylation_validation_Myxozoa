@@ -69,7 +69,6 @@ cp *.fasta all_proteomes/
 
 # Run script
 bash generate_hmm_tabular_all_proteomes_loop.sh
-
 ```
 ## 🔹 Second step is to run script: `generate_table_of_hmmsearch_results_combined.sh`
 
@@ -133,7 +132,7 @@ This script consolidates those results into:
 ```bash
 # Run from results_hmmsearch/ after Script 1
 bash generate_table_of_hmmsearch_results_combined.sh
-
+```
 ---
 
 ## 🔹 3rd step is script: `generate_final_absence_presence_table.py` (there are some variations of it)
@@ -184,7 +183,7 @@ This table is the **main summary output** of the analysis.
 ```bash
 # Run the Python script
 python generate_final_absence_presence_table.py
-
+```
 ---
 
 ## 🔹  4th step is script: `extract_proteins_from_proteome.py`
@@ -261,4 +260,4 @@ Originally, the pipeline only tracked whether a protein ID was present (`Sequenc
 ### Example command
 ```bash
 python extract_evalues.py
-
+```
