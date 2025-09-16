@@ -62,8 +62,8 @@ This allows downstream parsing and identification of candidate DNA methylationâ€
 4. **Loop over each proteome file**
    - Extracts the base name of the proteome (e.g. `sample57.fasta` â†’ `sample57`).  
    - Defines output file names:
-     - Long format report: `DNMT1_x_sample57.txt`  
-     - Tabular format report: `DNMT1_x_sample57_tabular.txt`  
+     - Long format report: `DNMT1_x_sample57.txt`  (useful in case of manual verification of the alignment)
+     - Tabular format report: `DNMT1_x_sample57_tabular.txt`  (for downstream parsing needs)
 
 5. **Run hmmsearch twice per proteome**
    - Standard output (`-o`) for detailed alignments.  
