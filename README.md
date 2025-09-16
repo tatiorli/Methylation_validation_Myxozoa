@@ -26,7 +26,7 @@ The study by **Li et al. (2024)** suggested that DNA methylation was present in 
   2. Presence of DNA methylation proteins (Table 3)  
   3. Skew in CpG O/E (Table 4, Figure 8B)  
 
-These findings contrast with our previously published results ([Chang et al., MBE 2021](https://academic.oup.com/mbe/article/38/2/393/5902833)), where we proposed the absence of DNA methylation in myxozoa, based on:
+These findings contrast with our previously published results ([Kyger et al. 2021](https://academic.oup.com/mbe/article/38/2/393/5902833)), where we proposed the absence of DNA methylation in myxozoa, based on:
 1. Lack of DNA methylation enzymes in myxozoa (Figure 1)  
 2. Lack of methylated Cs from WGBS (Table 1, Figures 2 and 3)  
 
