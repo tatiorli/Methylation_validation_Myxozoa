@@ -37,7 +37,7 @@ The scripts here were developed to **systematically search for DNA methylationâ€
 ## ðŸ”¹ Script 1: `generate_hmm_tabular_all_proteomes_loop.sh`
 
 ### Purpose
-Run **all HMMs against all proteomes** using `hmmsearch`.  
+Run **all HMMs selected against all proteomes selected** using `hmmsearch`.  
 Each HMM is compared to each proteome, producing both:
 - A **full alignment report** (`.txt`)
 - A **tabular summary** (`_tabular.txt`)
