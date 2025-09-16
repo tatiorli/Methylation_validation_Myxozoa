@@ -19,7 +19,7 @@ _Response to: [Long-read metagenomic sequencing negates inferred loss of cytosin
 
 ## 🔹 Motivation
 
-The study by **Li et al. (2024)** suggested that DNA methylation was present in some myxozoan genomes newly assembled using Oxford Nanopore (ONT) sequencing. Specifically:
+The study by **Long et al. (2024)** suggested that DNA methylation was present in some myxozoan genomes newly assembled using Oxford Nanopore (ONT) sequencing. Specifically:
 - Specimens **57 and 58** were reported to have large numbers of methylated genes.  
 - Their inference was based on:
   1. ONT methylation calls (Figure 6)  
