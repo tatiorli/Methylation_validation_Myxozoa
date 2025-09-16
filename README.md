@@ -70,6 +70,7 @@ cp *.fasta all_proteomes/
 # Run script
 bash generate_hmm_tabular_all_proteomes_loop.sh
 
+```
 ## 🔹 Second step is to run script: `generate_table_of_hmmsearch_results_combined.sh`
 
 ### Purpose
