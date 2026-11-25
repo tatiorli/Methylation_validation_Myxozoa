@@ -1,5 +1,5 @@
 # Myxozoa Methylation validation project
-This repository contains accessory scripts for generating the `hmmsearch` analyses used in the article (insert citation).
+This repository contains accessory scripts for generating the `hmmsearch` analyses used in the article (https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evag279/9012619?searchresult=1).
 
 _This is a response to: [Long-read metagenomic sequencing negates inferred loss of cytosine methylation in Myxosporea (Cnidaria: Myxozoa)](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf014/8075032)_  
 
